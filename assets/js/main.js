@@ -27,7 +27,7 @@
 			}, 100);
 		});
 
-	// Slideshow
+	/* // Slideshow
 
 	
 	var currentSlide = 0;
@@ -69,7 +69,7 @@
 	})
 
 	
-
+ */
 
 	// Nav.
 		var $nav = $('#nav');
